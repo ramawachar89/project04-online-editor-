@@ -1,0 +1,52 @@
+.team{
+    color: white;
+   
+    background-color: rgb(41, 40, 40);
+    font-size: 1rem;
+    border-radius: 10px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+}
+.para{
+    width:55%;
+    margin-top: rem;
+}
+.btnStart{
+   padding: 0.8rem;
+   width: 9rem;
+   border-radius: 8px;
+   background-color: rgb(64, 210, 64);
+}
+.imggg{
+    display: flex;
+    flex-direction: row !important;
+ }
+ @media screen and (max-width: 400px) {
+    .team{
+        color: white;
+       
+        background-color: rgb(41, 40, 40);
+        font-size: 2rem;
+        border-radius: 10px;
+        display:flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center; 
+    }
+    .para{
+        width:55%;
+    margin-top: rem;
+    font-size: 2rem;
+    }
+    .btnStart{
+        padding: 1rem;
+        width: 20rem;
+        border-radius: 10px;
+        background-color: rgb(64, 210, 64);
+        font-size: 2rem;
+        height: 9rem;
+     }
+     
+ }

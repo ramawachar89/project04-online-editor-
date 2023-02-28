@@ -1,0 +1,17 @@
+.editor{
+   display: flex;
+    
+
+}
+.savebtn{
+   display: flex;
+   justify-content: center;
+   margin: 0;
+    position: relative;
+ 
+}
+button{
+   position: absolute;
+   margin-bottom: 19rem;
+}
+

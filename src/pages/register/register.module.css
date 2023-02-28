@@ -1,0 +1,19 @@
+.main{
+        display: flex;
+        justify-content: center;
+       align-items: center;
+        
+     }
+    .form{
+        width:8rem;
+       display: flex;
+         justify-content: center;
+         align-items: center;
+     }
+     .email{
+         width:3rem;
+     }
+     .loginLink{
+        border-radius: 2px;
+     
+ } 

@@ -1,0 +1,28 @@
+.footer{
+    
+    color:white;
+    display: flex;
+    flex-direction: column;
+    margin-top: 1rem;
+}
+.copyright{
+    display: flex;
+    justify-content: flex-end;
+}
+
+@media screen and (max-width: 400px) {
+    .footer{
+    
+        color:white;
+        display: flex;
+        flex-direction: column;
+        margin-top: 1rem;
+        font-size: 1.3rem;
+    }
+    .copyright{
+       width: 15rem;
+        margin-left: 45rem;
+        font-size: 1.3rem;
+       
+    }
+}

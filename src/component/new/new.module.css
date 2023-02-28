@@ -1,0 +1,10 @@
+.mains{
+    display: flex;
+    height:auto
+}
+.editor{
+    width: 40%;;
+}
+.output{
+    width:60%;
+}

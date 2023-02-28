@@ -1,0 +1,30 @@
+.team{
+    color: white;
+   
+    background-color: rgb(41, 40, 40);
+    font-size: 1rem;
+    border-radius: 10px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+}
+.para{
+    width:55%;
+    margin-top: rem;
+}
+.btnStart{
+   padding: 0.8rem;
+   width: 9rem;
+   border-radius: 8px;
+   background-color: rgb(64, 210, 64);
+   margin-top: 21rem;
+}
+.imggg{
+    display: flex;
+    flex-direction: row !important;
+  
+ }
+
+ 
+  

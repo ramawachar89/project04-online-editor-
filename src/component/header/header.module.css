@@ -1,0 +1,107 @@
+.input{
+   background-color: black;
+    border: none;
+    color: white;
+    font-size: 2rem;
+}
+.name{
+  
+    display: flex;
+   
+}
+.up{
+    width:100%;
+    display: flex;
+    justify-content: row;
+}
+/* // background: " linear-gradient(to bottom, #000000 9%, #ffffff 100%", */
+
+.head{
+    color: rgb(240, 231, 231);
+    font-size: 2rem;
+    background-color: rgb(24, 19, 19);
+    margin-top: 1rem;
+    margin-left: 1rem;
+    margin-bottom: 0.5rem;
+    display: flex;
+  border-radius: 5px;
+
+}
+.title{
+    margin-left: 1rem;
+    width:20%;
+    /* border: 2px solid rgb(15, 13, 13); */
+    height:auto;
+    color: white;
+    /* background-color: rgb(61, 59, 59); */
+    background-color:  rgb(112, 115, 117);;
+     word-spacing: 0%;
+     cursor: pointer;
+     padding: 0.5rem;
+     border-radius: 5px;
+}
+.right{
+    width: 80%;
+    /* border: 2px solid rgb(8, 8, 8); */
+}
+
+.card{
+    position: absolute;
+    color: black;
+  
+    margin: 2rem;
+    height:42vh;
+    width: 65vh;
+    margin-top: em;
+    margin-left: rem;
+
+    /* background-color:rgba(203, 201, 168, 0.817); */
+    /* background: linear-gradient(to bottom, #ff6600 0%, #00ffff 100%); */
+   border-radius: 10px;
+   /* background: linear-gradient(to bottom, #ffffff 0%, #99ccff 100%); */
+   /* background: linear-gradient(to bottom, #669999 0%, #ffff66 100%); */
+}
+.card:hover{
+   
+    background-color: rgb(112, 115, 117);
+}
+.footpart{
+    position: absolute;
+    color: black;
+  
+    margin: 2rem;
+    height:14vh;
+    width: 98vh;
+    margin-top: 25.6rem;
+    margin-left: 0rem;
+    /* background-color: rgb(41, 40, 40); */
+    /* background: linear-gradient(to bottom, #ff6600 0%, #00ffff 100%); */
+   border-radius: 10px;
+   /* background: linear-gradient(to bottom, #ffffff 0%, #99ccff 100%); */
+   background: linear-gradient(to bottom, #1e2121 0%, #3f3f37 100%);
+}
+
+.i1{
+    margin-top: 1rem;
+}
+.foot1{
+    margin-top: 0.4rem;
+    margin-bottom: 0.5rem;
+   /* border: 1px solid rgb(21, 15, 15); */
+   width: 60%; 
+   margin-left: 1rem;
+   color:white;
+   background-color:  #3f3f37;
+   border-radius: 7px;
+   cursor: pointer;
+}
+.foot1:hover{
+ background-color: rgb(112, 115, 117);
+}
+button{
+    cursor: pointer;
+}
+.btn{
+    margin-bottom:7rem;
+    background-color: red;
+}
